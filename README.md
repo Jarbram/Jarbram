@@ -14,6 +14,5 @@ const Abraham = {
     },
     architecture: ["Layered software architecture"],
     Current focus: "Improve my backend skills and continue to learn more",
-};[https://media.giphy.com/media/1k1ytCiReJMZWVtjXd/giphy.gif
-](https://media.giphy.com/media/uKadIjaivWCqY/giphy.gif)
+};
 ```
