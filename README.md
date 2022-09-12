@@ -1,4 +1,4 @@
-<h2>Hi I'm Abraham Huacchillo Castillo!  <img src="https://gifdb.com/images/high/pixel-art-cool-duck-qsq0wl7u5p1u1xcx.gif" width="50"></h2>
+<h2>Hi I'm Abraham Huacchillo Castillo!  <img src="https://i.gifer.com/43a7.gif" width="50"></h2>
 
 
 ```javascript
