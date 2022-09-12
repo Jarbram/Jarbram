@@ -6,11 +6,13 @@ const Abraham = {
     code: ["Javascript", "Golang"],
     askMeAbout: ["web dev", "tech"],
     technologies: {
-        backEnd: {
-            js: ["Node", "Fastify", "Express"],
+        frontend: {
+            Html
+            Css
+            framework: ["React"]
         },
         devOps: [ "Docker🐳"],
-        databases: ["mongo", "MySql", "sqlite"],
+        databases: [ "MySql", "sqlite"],
     },
     architecture: ["Layered software architecture"],
     Current focus: "Improve my backend skills and continue to learn more",
