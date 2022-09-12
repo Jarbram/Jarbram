@@ -1,4 +1,4 @@
-<h2> I'm Abraham Huacchillo Castillo! <img src="[https://c.tenor.com/VnHIFsiGgY4AAAAC/naruto-run.gif](https://media.giphy.com/media/vmQAsNXEgvItJxpgL4/giphy.gif)" width="50"></h2>
+<h2> I'm Abraham Huacchillo Castillo! <img src="https://media.giphy.com/media/vmQAsNXEgvItJxpgL4/giphy.gif" width="50"></h2>
 
 
 ```javascript
