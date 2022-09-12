@@ -1,23 +1,18 @@
+<h2> I'm Abraham Huacchillo Castillo! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 
 ```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+const Abraham = {
+    code: ["Javascript", "Golang"],
+    askMeAbout: ["web dev", "tech"],
     technologies: {
         backEnd: {
             js: ["Node", "Fastify", "Express"],
         },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        devOps: [ "Docker🐳"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Building Robots to ease opertations",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    architecture: ["Layered software architecture"],
+    Current focus: "Improve my backend skills and continue to learn more",
 };
 ```
