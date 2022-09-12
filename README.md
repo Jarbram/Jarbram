@@ -1,4 +1,4 @@
-<h2> I'm Abraham Huacchillo Castillo! <img src="https://media.giphy.com/media/1k1ytCiReJMZWVtjXd/giphy.gif" width="100"></h2>
+<h2> I'm Abraham Huacchillo Castillo! <img src="https://media.giphy.com/media/uKadIjaivWCqY/giphy.gif" width="100"></h2>
 
 
 ```javascript
@@ -14,5 +14,6 @@ const Abraham = {
     },
     architecture: ["Layered software architecture"],
     Current focus: "Improve my backend skills and continue to learn more",
-};
+};[https://media.giphy.com/media/1k1ytCiReJMZWVtjXd/giphy.gif
+](https://media.giphy.com/media/uKadIjaivWCqY/giphy.gif)
 ```
