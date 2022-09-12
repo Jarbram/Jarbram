@@ -14,6 +14,6 @@ const Abraham = {
         databases: [ "MySql", "sqlite"],
     },
     architecture: ["Layered software architecture"],
-    Current focus: "Improve my backend skills and continue to learn more",
+    CurrentFocus: "Improve my backend skills and continue to learn more",
 };
 ```
