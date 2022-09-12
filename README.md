@@ -1,4 +1,4 @@
-<h2>Hi I'm Abraham Huacchillo Castillo! <img src="https://c.tenor.com/Np69ChcpefYAAAAC/pixel-art.gif" width="50"></h2>
+<h2>Hi I'm Abraham Huacchillo Castillo! <https://i.gifer.com/43a7.gif" width="50"></h2>
 
 
 ```javascript
