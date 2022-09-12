@@ -7,8 +7,8 @@ const Abraham = {
     askMeAbout: ["web dev", "tech"],
     technologies: {
         frontend: {
-            Html
-            Css
+            html
+            css
             framework: ["React"]
         },
         devOps: [ "Docker🐳"],
