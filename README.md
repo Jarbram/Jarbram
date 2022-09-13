@@ -11,7 +11,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time I dedicate myself to building and modifying motorcycles and going on the road with my friends.
 
-- :mailbox:How to contact me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin. com/in/abraham-moises-huacchillo-castillo-7630b1210/
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jarbram&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
