@@ -3,7 +3,15 @@
 ---
 :man_technologist: About me: 
 
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Peru.
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Peru.
+
+- :telescope: Currently I contribute to website development from the Frontend and I'm studying to improve my Backend skills.
+
+- :seedling: Exploring technical content writing and design patterns.
+
+- :zap: In my free time I dedicate myself to building and modifying motorcycles and going on the road with my friends.
+
+- :mailbox:How to contact me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin. com/in/abraham-moises-huacchillo-castillo-7630b1210/
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jarbram&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
