@@ -1,19 +1,4 @@
-<h2>Hi I'm Abraham Huacchillo Castillo!  <img src="https://i.gifer.com/43a7.gif" width="50"></h2>
+<h2>Hi I'm Abraham Huacchillo Castillo!  <img src="https://64.media.tumblr.com/0b019c3f0cb6c97670acbc0f806025fb/tumblr_nzj281bDu21rib72yo1_500.gifv" width="50"></h2>
 
 
-```javascript
-const Abraham = {
-    code: ["Javascript", "Golang"],
-    askMeAbout: ["web dev", "tech"],
-    technologies: {
-        frontend: {
-            code :["Html","Css"],
-            library: ["React"],
-        },
-        devOps: [ "Docker🐳"],
-        databases: [ "MySql", "sqlite"],
-    },
-    architecture: ["Layered software architecture"],
-    CurrentFocus: "Improve my backend skills and continue to learn more",
-};
-```
+
