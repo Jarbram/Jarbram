@@ -3,36 +3,39 @@
 
 ---
 
-### [~/] whoami
-> Desarrollador peruano enfocado en crear soluciones eficientes, optimizar flujos de trabajo y construir interfaces que destaquen. Especializado en transformar ideas complejas en productos digitales escalables y fáciles de usar.
+### 👤 Sobre Mí
+Desarrollador enfocado en crear soluciones eficientes, optimizar flujos de trabajo y construir interfaces que destaquen. Especializado en transformar ideas complejas en productos digitales escalables y fáciles de usar.
 
-```javascript
-const profile = {
-  name: "Abraham Huacchillo",
-  role: "Frontend Developer",
-  focus: ["Digital Product Design", "Process Automation", "Agile Methodologies"],
-  location: "Perú 🇵🇪",
-  status: "Building things with React 🚀"
-};
+---
 
-[~/] ls projects/
-🐾 LadraApp
-Descripción: Sistema integral de gestión para clínicas veterinarias. Resuelve la complejidad de los historiales médicos, recordatorios de citas y gestión de pacientes con una interfaz intuitiva y moderna (UI/UX).
-Impacto: Optimiza el tiempo de los médicos y mejora la comunicación con los dueños de las mascotas.
-Tech: Next, TypeScript, Tailwind CSS.
-🎧 djPonla
-Descripción: Plataforma web diseñada para DJs. Incluye módulos de búsqueda rápida de canciones, gestión de peticiones en tiempo real y herramientas específicas para mejorar la experiencia en eventos en vivo.
-Impacto: Automatiza la interacción entre el DJ y el público.
-Tech: TypeScript, React, Tailwind CSS.
+### 🚀 Proyectos Destacados
 
-[~/] cat tech_stack.txt
-# Frontend Core
-- [ Language ] : JavaScript (ES6+), TypeScript
-- [ Framework ] : React.js, Next.js
-- [ Styling ]   : CSS3, Tailwind CSS, Styled Components
-- [ State ]     : Context API, Redux
+#### 🐾 LadraApp
+**Gestión eficiente para veterinarias**
+* Solución integral para la gestión de historiales médicos.
+* UI/UX optimizada para clínicas veterinarias.
+* **Tech Stack:** `Next.js` • `TypeScript` • `Tailwind CSS`
 
-# Tools & Workflow
-- [ Design ]    : Figma, UI/UX Design
-- [ DevOps ]    : Docker, Git, Linux (Ubuntu)
-- [ Engine ]    : NPM, Vite, Webpack
+#### 🎧 djPonla
+**Plataforma web para DJs y Karaoke**
+* Herramienta con módulos de karaoke y búsqueda rápida.
+* Gestión de peticiones en tiempo real para eventos.
+* **Tech Stack:** `React` • `TypeScript` • `Styled Components`
+
+---
+
+### 🛠️ Stack Tecnológico
+
+| Frontend & Design | Herramientas & Workflow |
+| :--- | :--- |
+| **Languages:** JavaScript, TypeScript | **Design:** Figma, UI/UX Design |
+| **Frameworks:** React.js, Next.js | **DevOps:** Docker, Git |
+| **Styling:** Tailwind CSS, Styled Components | **OS:** Linux (Ubuntu), NPM |
+
+---
+
+<br />
+
+<div align="center">
+  <i>"User experience is not a task, it's a responsibility."</i>
+</div>
